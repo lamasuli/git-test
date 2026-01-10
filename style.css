@@ -171,11 +171,10 @@ transition: transform 0.3s ease, box-shadow 0.3s ease;
      text-align: center;
 }
 .info{
-     text-align: center;
-     text-size: 2em;
+text-align: center;
+font-size: 2em;
 }
 .skills-badges{
-  
      display: flex;
      flex-wrap: wrap;
      justify-content: center;
